@@ -20,7 +20,15 @@ int b = int.Parse(coor[1]);
 int[,]array = GetArray(10,10);
 WriteLine();
 PrintArray(array);
-WriteLine($"{GetNum}");
+if(GetNum(array,a,b))
+{
+    WriteLine($"Element found{array[a,b]}");
+}
+else 
+{
+    WriteLine("Element not found");
+}
+
 int[,] GetArray(int m, int n)
 {
     int[,]res = new int[10,10];
@@ -44,24 +52,18 @@ for (int i=0; i< Inarray.GetLength(0); i++)
     WriteLine();
 }
 }
-int GetNum(int [,] array,int a,int b)
+bool GetNum(int [,] array,int a,int b)
 {
-    int x = 0;
-    if (a >0 && a < array.GetLength(0) && b>0 && b < array.GetLength(1))
-    {
-        for(int i=0; i< array.GetLength(0);i++)
-        {
-            for(int j=0; j<array.GetLength(1);j++)
-            {
-            x = array[a,b];
 
-            }
-        }
+    if ((a>=0 && a<array.GetLength(0)) && (b>=0 && b<array.GetLength(1)))
+    {
+            return true;
+ 
     }
     else
     {
         WriteLine("No number");
     }
-    return x;
+    return false;
 }
 
