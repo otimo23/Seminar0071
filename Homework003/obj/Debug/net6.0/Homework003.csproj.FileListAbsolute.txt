@@ -1,0 +1,15 @@
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\bin\Debug\net6.0\Homework003.exe
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\bin\Debug\net6.0\Homework003.deps.json
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\bin\Debug\net6.0\Homework003.runtimeconfig.json
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\bin\Debug\net6.0\Homework003.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\bin\Debug\net6.0\Homework003.pdb
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\obj\Debug\net6.0\Homework003.csproj.AssemblyReference.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\obj\Debug\net6.0\Homework003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\obj\Debug\net6.0\Homework003.AssemblyInfoInputs.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\obj\Debug\net6.0\Homework003.AssemblyInfo.cs
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\obj\Debug\net6.0\Homework003.csproj.CoreCompileInputs.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\obj\Debug\net6.0\Homework003.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\obj\Debug\net6.0\refint\Homework003.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\obj\Debug\net6.0\Homework003.pdb
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\obj\Debug\net6.0\Homework003.genruntimeconfig.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar007\Homework003\obj\Debug\net6.0\ref\Homework003.dll
